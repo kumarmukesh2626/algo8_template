@@ -1,1 +1,1 @@
-# this is CameraLoader Module
+# this is algo8 template for all projects
