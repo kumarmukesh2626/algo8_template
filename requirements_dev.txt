@@ -4,10 +4,24 @@ ensure==1.0.2
 
 
 #Dev requirements
-pytest==7.2.1
-tox==4.4.6
-black==23.1.0
-flake8==6.0.0
-mypy==1.0.1
+pytest
+tox
+black
+flake8
+mypy
+huggingface_hub
+transformers
+openai
+pandas
+fairscale
+fire
+numpy
+Requests
+sentencepiece
+torch
+tqdm
+wandb
+textract
+python-dotenv
 
 -e .

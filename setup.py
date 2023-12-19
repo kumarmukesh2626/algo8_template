@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "algo8_template"
+REPO_NAME = "dataExtractor"
 AUTHOR_USER_NAME = "kumarmukesh2626"
-SRC_REPO = "algo8_template"
+SRC_REPO = "dataExtractor"
 AUTHOR_EMAIL = "mukesh.kumar@algo8.ai"
 
 setuptools.setup(
@@ -15,7 +15,7 @@ setuptools.setup(
     version=__version__,
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
-    description="A small python package",
+    description="Certanity AI LLM Package",
     long_description=long_description,
     long_description_content="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
