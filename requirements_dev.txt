@@ -4,11 +4,19 @@ ensure==1.0.2
 
 
 #Dev requirements
+<<<<<<< HEAD
 pytest==7.2.1
 tox==4.4.6
 black==23.1.0
 flake8==6.0.0
 mypy==1.0.1
+=======
+pytest
+tox
+black
+flake8
+mypy
+>>>>>>> cb1e7f3ffef9a1d265ae153ca761ff709666efc3
 huggingface_hub
 transformers
 openai
